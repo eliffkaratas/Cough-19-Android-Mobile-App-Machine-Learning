@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Cough-19</string>
+    <string-array name="bloodtypes">
+        <item>0 RH +</item>
+        <item>0 RH -</item>
+        <item>A RH +</item>
+        <item>A RH -</item>
+        <item>B RH +</item>
+        <item>B RH -</item>
+        <item>AB RH +</item>
+        <item>AB RH -</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_feedback">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
