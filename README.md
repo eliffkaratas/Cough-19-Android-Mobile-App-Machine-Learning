@@ -1,6 +1,7 @@
 # Cough-19
 Android Application development in Java for pre-diagnosis of Covid-19 with using Machine Learning algorithms in Python
 
+You can see the working of application in this short video:
 https://www.youtube.com/watch?v=Rw8-3kabJ-E
 
 The Cough-19 Android mobile application, developed in our MOBILE APPLICATION TO DIAGNOSE THE DISEASE project, is an application that aims to reduce the effects of the pandemic, improve public and individual health, and shed light on the questions in people's minds without the need to go to the hospital. At the same time, it has the feature of being a decision support system for doctors in hospitals. Thanks to the Cough-19 application, where we can record the voice of the user, it aims to improve the studies on the pandemic by collecting voice data and to be useful to the user by calculating the risk of the user to become COVID-19 through the application.
