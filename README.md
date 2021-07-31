@@ -29,7 +29,9 @@ The value we show as a result on the Cough-19 application is the accuracy value 
 The highest accuracy value that Neural Network, Support Vector Machine, and Neural Network applied is get from Neural Network model.
 
 Neural Network -> 96.49%
+
 Decision Tree -> 88.24%
+
 Support Vector Machine -> 94.12%
 
 We enter the audio data of the user we get from Firebase as input to the model we trained with Neural Network. Therefore, the value we show to the user in the mobile application is the accuracy value we obtained from the Neural Network model.
