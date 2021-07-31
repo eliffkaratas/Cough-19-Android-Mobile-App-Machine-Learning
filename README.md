@@ -1,7 +1,7 @@
 # Cough-19
 Android Application development in Java for pre-diagnosis of Covid-19 with using Machine Learning algorithms in Python
 
-You can see the working of application in this short video:
+***You can see the working of application in this short video:***
 https://www.youtube.com/watch?v=Rw8-3kabJ-E
 
 The Cough-19 Android mobile application, developed in our MOBILE APPLICATION TO DIAGNOSE THE DISEASE project, is an application that aims to reduce the effects of the pandemic, improve public and individual health, and shed light on the questions in people's minds without the need to go to the hospital. At the same time, it has the feature of being a decision support system for doctors in hospitals. Thanks to the Cough-19 application, where we can record the voice of the user, it aims to improve the studies on the pandemic by collecting voice data and to be useful to the user by calculating the risk of the user to become COVID-19 through the application.
@@ -31,10 +31,8 @@ The value we show as a result on the Cough-19 application is the accuracy value 
 
 The highest accuracy value that Neural Network, Support Vector Machine, and Neural Network applied is get from Neural Network model.
 
-Neural Network -> 96.49%
-
-Decision Tree -> 88.24%
-
-Support Vector Machine -> 94.12%
+- Neural Network -> 96.49%
+- Decision Tree -> 88.24%
+- Support Vector Machine -> 94.12%
 
 We enter the audio data of the user we get from Firebase as input to the model we trained with Neural Network. Therefore, the value we show to the user in the mobile application is the accuracy value we obtained from the Neural Network model.
